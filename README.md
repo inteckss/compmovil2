@@ -1,4 +1,5 @@
-# Aplicación Móvil Municipalidad de Villarrica
+Nombre : Claudio Aguilera Campos
+computacion movil trabajo 2 "Aplicación Móvil Municipalidad de Villarrica"
 
 ## Rúbrica de Evaluación
 
@@ -52,9 +53,4 @@ La siguiente rúbrica establece los criterios de evaluación para la aplicación
 **IMPORTANTE:**
 El estudiante debe tener presente que todo escrito será revisado a través de un programa antiplagio, en forma previa a ser evaluado por la o el docente. No se admitirá un texto que supere el 30% de contenido referenciado. La presencia de material ajeno (citas y/o paráfrasis) no referenciado implicará que se asigne la calificación mínima.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
